@@ -1,0 +1,13 @@
+Baskfile
+bin
+docs
+etc
+LICENSE
+Makefile
+nb
+nb.go
+package.json
+package-lock.json
+plugins
+README.md
+test
